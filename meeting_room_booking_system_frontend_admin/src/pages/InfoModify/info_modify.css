@@ -1,0 +1,15 @@
+#updateInfo-container {
+    width: 500px;
+    /* margin: 50px auto 0 auto;
+    text-align: center; */
+    /* margin: 0 auto; */
+}
+#updateInfo-container .btn {
+    width:400px !important;
+    display: flex;
+    justify-content: center;
+}
+#updateInfo-container .captcha-wrapper {
+    display: flex;
+    justify-content: flex-end;
+}
